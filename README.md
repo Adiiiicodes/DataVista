@@ -46,10 +46,11 @@ cd DataVista
 3. Install the required dependencies using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas openpyxl matplotlib seaborn python-docx ttkbootstrap
+
 ```
 
-   The `requirements.txt` file includes all necessary packages such as `pandas`, `openpyxl`, `matplotlib`, `seaborn`, `python-docx`, and `ttkbootstrap`.
+
 
 4. Run the app:
 
