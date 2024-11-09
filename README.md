@@ -102,9 +102,7 @@ We welcome contributions! Feel free to fork the repository, open an issue, or su
 3. Commit your changes and push them to your fork.
 4. Open a pull request from your fork to the main repository.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
